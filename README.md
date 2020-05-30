@@ -1,2 +1,2 @@
 # Socket-Over-Tor
-Make connections trought the TOR network
+Make connections trough the TOR network
