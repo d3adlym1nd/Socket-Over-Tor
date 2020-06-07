@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 # Socket-Over-Tor
 Make connections trough the TOR network
 #### How to use
